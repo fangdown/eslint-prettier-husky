@@ -1,3 +1,4 @@
 export const Config = {
-  dev: 'aaa'
+  dev: 'aaab'
 };
+var a = 1;
