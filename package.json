@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint --ext .ts,.js",
+    "eslint": "eslint  --ext .ts,.js",
     "fix": "eslint --fix --ext .ts,.js",
     "fix:prettier": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,less,yml,yaml,md}\""
   },
